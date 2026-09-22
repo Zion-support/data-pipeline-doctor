@@ -1,39 +1,20 @@
 # Data Pipeline Doctor
 
-Diagnose common data pipeline failures with guided troubleshooting playbooks.
+Diagnose common data pipeline failures with guided troubleshooting playbooks — from broken DAGs to skewed partitions and stalled consumers.
 
-Part of the Zion AI Apps Network.
+**Live app:** https://zion-support.github.io/data-pipeline-doctor/
 
-[https://ziontechgroup.com](https://ziontechgroup.com)
+## Features
+- Symptom-to-cause guided diagnosis
+- Playbooks for Airflow, Spark, Kafka and dbt failures
+- Prevention checklist per diagnosis
 
-- 🌐 Live app: https://ziontechgroup.com/data-pipeline-doctor/
-- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
-- 📞 Discovery call: https://ziontechgroup.com/discovery/
-- 🧰 All tools: https://ziontechgroup.com/tools/
+## Part of the Zion App Network
+- 🌐 [Zion Tech Group](https://ziontechgroup.com)
+- 🕸 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
 
-## Zion App Network (related apps)
-
-- [agent-sla-monitor](https://github.com/Zion-support/agent-sla-monitor) — https://ziontechgroup.com/agent-sla-monitor/
-- [accessibility-checker](https://github.com/Zion-support/accessibility-checker) — https://ziontechgroup.com/accessibility-checker/
-- [warranty-lens](https://github.com/Zion-support/warranty-lens) — https://ziontechgroup.com/warranty-lens/
-- [site-survey-planner](https://github.com/Zion-support/site-survey-planner) — https://ziontechgroup.com/site-survey-planner/
-- [depot-stock-balancer](https://github.com/Zion-support/depot-stock-balancer) — https://ziontechgroup.com/depot-stock-balancer/
-- [licitacao-radar](https://github.com/Zion-support/licitacao-radar) — https://ziontechgroup.com/licitacao-radar/
-- [ops-runbook-ai](https://github.com/Zion-support/ops-runbook-ai) — https://ziontechgroup.com/ops-runbook-ai/
-- [energy-sla-reporter](https://github.com/Zion-support/energy-sla-reporter) — https://ziontechgroup.com/energy-sla-reporter/
-- [zion-ai-spare-parts-matcher](https://github.com/Zion-support/zion-ai-spare-parts-matcher) — https://ziontechgroup.com/zion-ai-spare-parts-matcher/
-- [zion-ai-field-dispatch-optimizer](https://github.com/Zion-support/zion-ai-field-dispatch-optimizer) — https://ziontechgroup.com/zion-ai-field-dispatch-optimizer/
-- [zion-ai-ticket-triage](https://github.com/Zion-support/zion-ai-ticket-triage) — https://ziontechgroup.com/zion-ai-ticket-triage/
-- [zion-ai-rma-tracker](https://github.com/Zion-support/zion-ai-rma-tracker) — https://ziontechgroup.com/zion-ai-rma-tracker/
-- [ai-supply-chain-optimizer](https://github.com/Zion-support/ai-supply-chain-optimizer) — https://ziontechgroup.com/ai-supply-chain-optimizer/
-- [api-health-probe](https://github.com/Zion-support/api-health-probe) — https://ziontechgroup.com/api-health-probe/
-- [cloud-architect-diagram-builder](https://github.com/Zion-support/cloud-architect-diagram-builder) — https://ziontechgroup.com/cloud-architect-diagram-builder/
-- [cloud-migration-calculator](https://github.com/Zion-support/cloud-migration-calculator) — https://ziontechgroup.com/cloud-migration-calculator/
-- [cost-anomaly-detector](https://github.com/Zion-support/cost-anomaly-detector) — https://ziontechgroup.com/cost-anomaly-detector/
-- [cybersecurity-risk-assessment](https://github.com/Zion-support/cybersecurity-risk-assessment) — https://ziontechgroup.com/cybersecurity-risk-assessment/
-- [dns-health-checker](https://github.com/Zion-support/dns-health-checker) — https://ziontechgroup.com/dns-health-checker/
-- [incident-timeline-reconstructor](https://github.com/Zion-support/incident-timeline-reconstructor) — https://ziontechgroup.com/incident-timeline-reconstructor/
-- [it-staffing-calculator](https://github.com/Zion-support/it-staffing-calculator) — https://ziontechgroup.com/it-staffing-calculator/
-
----
-© 2026 Zion Tech Group · https://ziontechgroup.com/
+## Related apps
+- [ai-data-pipeline](https://github.com/Zion-support/ai-data-pipeline) — automated pipeline builder
+- [data-quality-sentinel](https://github.com/Zion-support/data-quality-sentinel) — data quality monitoring
+- [data-contract-validator](https://github.com/Zion-support/data-contract-validator) — contract validation
+- [ai-data-validator](https://github.com/Zion-support/ai-data-validator) — data validation & cleansing
