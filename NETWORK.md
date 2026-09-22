@@ -1,17 +1,15 @@
-# 🕸 Zion App Network — Interlinks
+# 🌐 Zion App Network — Interlinks
 
 **data-pipeline-doctor** is part of the Zion Tech Group app network (630+ apps).
 
-- 🌐 [Main site](https://ziontechgroup.com)
-- 📓 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂 Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
+- 🗂️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 🗂️ Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
 
 ## Related apps
-- [ai-data-pipeline](https://github.com/Zion-support/ai-data-pipeline) — Pipeline builder
-- [data-quality-sentinel](https://github.com/Zion-support/data-quality-sentinel) — Data quality monitoring
-- [data-contract-validator](https://github.com/Zion-support/data-contract-validator) — Contract validation
-- [ai-data-validator](https://github.com/Zion-support/ai-data-validator) — Validation & cleansing
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+- [data-quality-sentinel](https://github.com/Zion-support/data-quality-sentinel) — data quality monitoring
+- [data-contract-validator](https://github.com/Zion-support/data-contract-validator) — data contract checks
+- [ai-ml-pipeline](https://github.com/Zion-support/ai-ml-pipeline) — ML training pipeline builder
+- [sql-query-explainer](https://github.com/Zion-support/sql-query-explainer) — SQL breakdowns
 
 ---
-🕸 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
